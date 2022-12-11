@@ -1,16 +1,23 @@
-### Hi there 👋
+### Eternally Tired.
 
-<!--
-**water-sucks/water-sucks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Yet another developer from out of the woodworks, up at odd times doing who knows
+what. I also play drums.
 
-Here are some ideas to get you started:
+I like playing around with:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Nix/NixOS
+- Neovim
+
+Currently studying computer science at [Ohlone College](https://ohlone.edu).
+
+Other stuff I like:
+
+- Drums
+- [Music](https://last.fm/user/water-sucks)
+- Football ([RN4L](https://www.raiders.com/history/the-autumn-wind))
+
+Contact:
+
+- **Matrix** :: [@water-sucks:matrix.org](https://matrix.to/#/@water-sucks:matrix.org)
+- **Discord** :: [water-sucks#3257](https://discordapp.com/users/973667298068021378)
+- **Email** :: [varun@snare.dev](mailto:varun@snare.dev)
