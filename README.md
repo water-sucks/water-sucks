@@ -19,5 +19,5 @@ Other stuff I like:
 Contact:
 
 - **Matrix** :: [@water-sucks:matrix.org](https://matrix.to/#/@water-sucks:matrix.org)
-- **Discord** :: [water-sucks#3257](https://discordapp.com/users/973667298068021378)
+- **Discord** :: [water.sucks](https://discordapp.com/users/973667298068021378)
 - **Email** :: [varun@snare.dev](mailto:varun@snare.dev)
