@@ -8,7 +8,7 @@ I like playing around with:
 - Nix/NixOS
 - Neovim
 
-Currently studying computer science at [Ohlone College](https://ohlone.edu).
+Currently studying computer science at [San Francisco State University](https://sfsu.edu).
 
 Other stuff I like:
 
