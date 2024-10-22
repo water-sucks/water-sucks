@@ -23,3 +23,4 @@ Contact:
 -   **Discord** :: [water.sucks](https://discordapp.com/users/973667298068021378)
 -   **Email** :: [varun@snare.dev](mailto:varun@snare.dev)
 
+![](https://watersucks-github.goatcounter.com/count?p=/README.md)
