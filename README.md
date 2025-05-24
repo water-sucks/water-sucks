@@ -9,8 +9,6 @@ I like playing around with:
 -   Neovim
 -   Zig
 
-Currently studying computer science at [San Francisco State University](https://sfsu.edu).
-
 Other stuff I like:
 
 -   Drums
